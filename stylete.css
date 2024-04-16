@@ -1,0 +1,137 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700&display=swap');
+
+*{
+    font-family: 'Poppins', sans-serif;
+    margin:0; padding:5px;
+    box-sizing: border-box;
+    outline: none; border:none;
+    text-decoration: none;
+    text-transform: capitalize;
+    transition: .2s linear;
+}
+header a{
+    text-decoration: none;
+}
+header {
+    padding: 0px 20px;
+    display: flex;
+    height: 37px;
+    background-color: rgb(244, 150, 150);
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.783);
+    justify-content: space-around;
+    border-radius: 25px;
+    margin-top: 2.5px;
+    width: 20%;
+}
+ul{
+    list-style: none;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    gap: 25px;
+}
+li a{
+    color: whitesmoke;
+    font-size: medium;
+    font-weight: bolder;
+}
+li a:hover{
+    color: rgba(130, 2, 193, 0.765);
+}
+ ul li:hover{
+    transform: scale(1.1);
+    transition: 0.3;
+}
+
+
+
+
+
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+}
+h1 {
+    text-align: center;
+}
+form {
+    border: 1px solid #ccc;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.form-group {
+    margin-bottom: 2rem;
+}
+
+label {
+    display: block;
+    margin-bottom: 0.5rem;
+    font-weight:600px;
+}
+
+input, textarea, select {
+    width: 100%;
+    padding: 0.5rem;
+    border: 1px solid #706868;
+    border-radius: 4px;
+   
+}   
+button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 1rem 2rem;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-left: 35%;
+}
+
+button:hover {
+    background-color: #3e8e41;
+}
+
+/* popup style */
+
+.popup{
+    width: 400px;
+    background-color: rgb(224, 220, 93);
+    border-radius: 6px;
+    position: absolute;
+    top: 0%;
+    left: 50%;
+    transform: translate(-50%,-50%)scale(0.1);
+    text-align: center;
+    padding: 0 30px 30px;
+    visibility: hidden;
+}
+.open-popup{
+    visibility: visible;
+    top: 50%;
+    transform: translate(-50%,-50%)scale(1);
+    transition: transform 0.4s, top 0.4s;
+}
+.popup img{
+    width: 100px;
+    margin-top: -50%;
+    border-radius: 50%;
+}
+.popup h2{
+   font-size: 38px;
+   font-weight: 500;
+   margin: 30px 0 10px;
+}
+.hello{
+    width: 100%;
+    margin-top: 35px;
+    padding: 10px 0;
+    background-color: darkseagreen;
+    color: #fff;
+    margin-left: -2.5%;
+    border: 0;
+    outline: none;
+    font-size: 18px;
+    border-radius: 4px;
+    cursor: pointer;
+}
