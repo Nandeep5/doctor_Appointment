@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="stylete.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="index.html">HOME</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <body>
+
+        <div class="container">
+            <h1>Doctor Appointment Review</h1>
+            <form>
+                <label for="concerns">Did the doctor effectively address your concerns?</label>
+                <select id="concerns" name="concerns"required>
+                    <option value="select">select </option>
+                    <option value="yes">Yes</option>
+                    <option value="no">No</option>
+                </select>
+        
+                <label for="communication">Was the doctor's communication clear and helpful?</label>
+                <select id="communication" name="communication"required>
+                    <option value="select">select </option>
+                    <option value="yes">Yes</option>
+                    <option value="no">No</option>
+                </select>
+        
+                <!-- Add more questions here following the same pattern -->
+        
+                <label for="comments">Additional Comments:</label>
+                <textarea id="comments" name="comments" rows="4" cols="50"></textarea>
+        
+                <button type="submit" onclick="openPopup()">Submit Review</button>
+            </form>
+        </div>
+
+        <script>
+            document.addEventListener('DOMContentLoaded', function() {
+        document.getElementById('myForm').addEventListener('submit', function(event) {
+        event.preventDefault(); // Prevents the form from submitting normally
+        
+        // Open a popup window
+        openPopup();
+        });
+        });
+        
+        function openPopup() {
+        // You can customize the popup window's content and appearance here
+        var popup = window.open('', 'popupWindow', 'width=400,height=300,justify-content=center');
+        popup.document.write('<h2>thank you for review</h2>');
+        popup.document.write('<button onclick="window.close()">Close</button>');
+        }
+        
+        </script>
+        
+        
+                
+</body>
+</html>
+
+
+
+
+
+
