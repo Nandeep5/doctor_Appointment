@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="styleapp.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+     <style>
+        .popup{
+            width: 400px;
+            background-color: rgb(224, 220, 93);
+            border-radius: 6px;
+            position: absolute;
+            top: 0%;
+            left: 50%;
+            transform: translate(-50%,-50%)scale(0.1);
+            text-align: center;
+            padding: 0 30px 30px;
+            visibility: hidden;
+        }
+        .open-popup{
+            visibility: visible;
+            top: 50%;
+            transform: translate(-50%,-50%)scale(1);
+            transition: transform 0.4s, top 0.4s;
+        }
+        .popup img{
+            width: 100px;
+            margin-top: -50%;
+            border-radius: 50%;
+        }
+        .popup h2{
+           font-size: 38px;
+           font-weight: 500;
+           margin: 30px 0 10px;
+        }
+</style>
+</head>
+<body>
+  <header>
+    <nav>
+        <ul>
+            <li><a href="indexNAV.html">HOME</a></li>
+        </ul>
+    </nav>
+</header>
+<section>
+    <h1>Doctor Appointment Form</h1>
+    <p>For urgent matters, please call the doctor's office at <a href="tel:555-555-5555">555-555-5555</a>.</p>
+    <p>For general inquiries, you can email the office at <a href="mailto:appointment@clinic.com">appointment@clinic.com</a>.</p>
+    <form id="appointment-form">
+        <div class="form-group">
+            <label for="name">Patient Name:</label>
+            <input type="text" id="name" name="name" required>
+        </div>
+        <div class="form-group">
+            <label for="age">Age:</label>
+            <input type="number" id="age" name="age" required>
+        </div>
+        <div class="form-group">
+            <label for="gender">Gender:</label>
+            <select id="gender" name="gender" required>
+                <option value="male">Male</option>
+                <option value="female">Female</option>
+                <option value="non-binary">Non-Binary</option>
+                <option value="prefer-not-to-say">Prefer Not to Say</option>
+            </select>
+        </div>
+        <div class="form-group">
+            <label for="phone">Phone Number:</label>
+            <input type="tel" id="phone" name="phone" required>
+        </div>
+        <div class="form-group">
+            <label for="blood-group">Blood Group:</label>
+            <input type="text" id="blood-group" name="blood-group" required>
+        </div>
+        <div class="form-group">
+            <label for="date-time">Preferred Date & Time:</label>
+            <input type="datetime-local" id="date-time" name="date-time" required>
+        </div>
+        <div class="form-group">
+            <label for="treatments">Type of Treatments:</label>
+            <textarea id="treatments" name="treatments" rows="4" required></textarea>
+        </div>
+        <div class="form-group">
+            <label for="comments">Comments:</label>
+            <textarea id="comments" name="comments" rows="4"></textarea>Submit Appointment Request
+        </div>
+        <button type="submit" onclick="openPopup()">Submit Appointment Request</button>
+                
+    </form>
+
+</section>
+<script>
+    document.addEventListener('DOMContentLoaded', function() {
+document.getElementById('myForm').addEventListener('submit', function(event) {
+event.preventDefault(); // Prevents the form from submitting normally
+
+// Open a popup window
+openPopup();
+});
+});
+
+function openPopup() {
+// You can customize the popup window's content and appearance here
+var popup = window.open('', 'popupWindow', 'width=400,height=300,justify-content=center');
+popup.document.write('<h2>thank you!</h2>');
+popup.document.write('<p>your has been sucessfully submitted</p>');
+popup.document.write('<button onclick="window.close()">Close</button>');
+}
+
+</script>
+</body>
+</html>
