@@ -5,10 +5,10 @@
 3.GitHub Repository URL: https://github.com/kbjtushar/victory-vault<br>
 4.Industry: lifestyle - sports<br>
 # Roles and responsibilities
-1.Tushar Ray (project management) :Manages the web development project.
-2.Shreya Chittimalla (Deployment) :Deployment and maintenance of project infrastructure.
-3.Anupama Kunnil (Images, logos and chat bot questions) :Responsible for image searching, logo creation and chat bot questions
-4.Nikhil (Documentation) :Responsible for managing the documentation process.
+1.Tushar Ray (project management) :Manages the web development project.<br>
+2.Shreya Chittimalla (Deployment) :Deployment and maintenance of project infrastructure.<br>
+3.Anupama Kunnil (Images, logos and chat bot questions) :Responsible for image searching, logo creation and chat bot questions <br>
+4.Nikhil (Documentation) :Responsible for managing the documentation process.<br>
 # Azure services used:
 1.Azure blob storage <br>
 2.Storage account <br>
