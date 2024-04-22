@@ -3,7 +3,7 @@
 1.Project Demo URL: https://mystoragevault.z13.web.core.windows.net/<br>
 2.Demo Video URL: https://www.youtube.com/watch?v=duFw2sVCuuY&t=125s<br>
 3.GitHub Repository URL: https://github.com/kbjtushar/victory-vault<br>
-4.Industry: lifestyle - sports<br>
+4.Industry: lifestyle - sports<br>  
 # Roles and responsibilities
 1.Tushar Ray (project management) :Manages the web development project.<br>
 2.Shreya Chittimalla (Deployment) :Deployment and maintenance of project infrastructure.<br>
