@@ -1,6 +1,6 @@
 # AppointuDOC
 # Project Details
-1.Project Demo URL: https://youtu.be/ftoDwfnlk18<br>
+1.Project Demo URL: https://doctorstac.z8.web.core.windows.net/<br>
 2.Demo Video URL: https://youtu.be/ftoDwfnlk18<br>
 3.GitHub Repository URL:https://github.com/Nandeep5/doctor_Appointment <br>
 4.Industry: health <br>  
