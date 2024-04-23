@@ -28,5 +28,5 @@ Azure Chatbot :- The Azure AI Language Chatbot is a cutting-edge conversational 
 # Storage Account
 ![storage account](https://github.com/Nandeep5/doctor_Appointment/assets/116363302/d69f031f-6990-4781-a119-948b8ef8e61c)
 # Static Webiste
-[static webiste](https://github.com/Nandeep5/doctor_Appointment/assets/116363302/ef26bc39-f3b9-49f5-83bb-bc184b217416)
+![static webiste](https://github.com/Nandeep5/doctor_Appointment/assets/116363302/ef26bc39-f3b9-49f5-83bb-bc184b217416)
 
