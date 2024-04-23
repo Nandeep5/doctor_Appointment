@@ -2,7 +2,7 @@
 # Project Details
 1.Project Demo URL: https://youtu.be/ftoDwfnlk18<br>
 2.Demo Video URL: https://youtu.be/ftoDwfnlk18<br>
-3.GitHub Repository URL: <br>
+3.GitHub Repository URL:https://github.com/Nandeep5/doctor_Appointment <br>
 4.Industry: health <br>  
 # Roles and responsibilities
 1.k.Yashwanth (project management) :Manages the web development project.<br>
