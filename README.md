@@ -27,6 +27,29 @@ Azure Chatbot :- The Azure AI Language Chatbot is a cutting-edge conversational 
 ![azure portal](https://github.com/Nandeep5/doctor_Appointment/assets/116363302/732b1ee0-9262-47c8-bf20-839d3d1ba4ef)
 # Storage Account
 ![storage account](https://github.com/Nandeep5/doctor_Appointment/assets/116363302/d69f031f-6990-4781-a119-948b8ef8e61c)
+# Language Service
+![language service](https://github.com/Nandeep5/doctor_Appointment/assets/116363302/c6937d5d-c76d-4b42-a159-58d7125cc93c)
+# Project File
+![project file](https://github.com/Nandeep5/doctor_Appointment/assets/116363302/81f005b3-d00a-4dd8-940f-3a362e389640)
+# Bot File
+![bot file](https://github.com/Nandeep5/doctor_Appointment/assets/116363302/d58bac97-c1c5-4bab-a969-baf9b36138bc)
+# Backup Vault
+![backup vault](https://github.com/Nandeep5/doctor_Appointment/assets/116363302/8bfb6a2c-7151-46b3-9284-5a87a634725a)
+# backup Policy
+![backup policy](https://github.com/Nandeep5/doctor_Appointment/assets/116363302/748d4460-87c1-48c4-9720-8fd685e3a8fe)
 # Static Webiste
 ![static webiste](https://github.com/Nandeep5/doctor_Appointment/assets/116363302/ef26bc39-f3b9-49f5-83bb-bc184b217416)
-
+# Website Overview
+![website overview](https://github.com/Nandeep5/doctor_Appointment/assets/116363302/6e9ca5ee-ea34-4882-9de7-cea337abe683)
+# About Us
+![about us](https://github.com/Nandeep5/doctor_Appointment/assets/116363302/279aa31f-0d55-4a51-8c62-1b8d7b35bf72)
+# Services
+![services](https://github.com/Nandeep5/doctor_Appointment/assets/116363302/809b966a-8350-4095-bc8f-f96361bc34ba)
+# Pricing
+![pricing](https://github.com/Nandeep5/doctor_Appointment/assets/116363302/ecfcd507-34ec-4327-adf7-bae2e3ad625b)
+# Apppointment Form
+![appointment form](https://github.com/Nandeep5/doctor_Appointment/assets/116363302/a6caef27-7a7f-4149-aae1-e3a19015cae3)
+# Testonomial
+![testonomial](https://github.com/Nandeep5/doctor_Appointment/assets/116363302/de79676a-4540-48b5-9264-288d15a767a6)
+# Chatbot
+![chatbot](https://github.com/Nandeep5/doctor_Appointment/assets/116363302/35835d34-9573-441a-ad42-58e4e1bc87c9)
