@@ -1,27 +1,25 @@
 # AppointuDOC
 # Project Details
-1.Project Demo URL: https://mystoragevault.z13.web.core.windows.net/<br>
-2.Demo Video URL: https://www.youtube.com/watch?v=duFw2sVCuuY&t=125s<br>
-3.GitHub Repository URL: https://github.com/kbjtushar/victory-vault<br>
-4.Industry: lifestyle - sports<br>  
+1.Project Demo URL: https://youtu.be/ftoDwfnlk18<br>
+2.Demo Video URL: https://youtu.be/ftoDwfnlk18<br>
+3.GitHub Repository URL: <br>
+4.Industry: health <br>  
 # Roles and responsibilities
-1.Tushar Ray (project management) :Manages the web development project.<br>
-2.Shreya Chittimalla (Deployment) :Deployment and maintenance of project infrastructure.<br>
-3.Anupama Kunnil (Images, logos and chat bot questions) :Responsible for image searching, logo creation and chat bot questions <br>
-4.Nikhil (Documentation) :Responsible for managing the documentation process.<br>
+1.k.Yashwanth (project management) :Manages the web development project.<br>
+2.P.Yashwanth(Deployment) :Deployment and maintenance of project infrastructure.<br>
+3.G.Rohan Yadav(Images, logos and chat bot questions) :Responsible for image searching, logo creation and chat bot questions <br>
+4.G.Mounika (Documentation) :Responsible for managing the documentation process.<br>
 # Azure services used:
-1.Azure blob storage <br>
-2.Storage account <br>
-3.Azure Backup service<br>
-4.Azure AI services<br>
-5.chatbot<br>
-6.Azure Role Based access Control(RBAC)<br>
+1.Storage account <br>
+2.Azure Backup service<br>
+3.Azure AI services<br>
+4.chatbot<br>
 # Problem Statement:
-Many individuals particularly in urban areas, lack access to high-quality sports facilities and comprehensive training programs for indoor sports. This leads to a lack of opportunities for athletes of all ages and skill level to develop their talent. The project aims to address a significant problem in Indoor regarding the limited availability of infrastructure and opportunities for indoor games. Currently, the city lacks dedicated facilities and programs tailored specifically for indoor sports, leaving enthusiasts with few options for pursuing their interests or honing their skills in activities such as badminton, table tennis, basketball, and volleyball, among others. This scarcity not only impedes the development of aspiring athletes but also deprives the broader community of the numerous benefits associated with indoor sports, including physical fitness, social interaction, and mental well-being.
+In contemporary hospital environments, the management of doctor appointments has become increasingly complex, requiring efficient administration to handle patient bookings, generate reports for cashiering purposes, and maintain crucial patient records. However, existing Record Management Systems frequently result in the misplacement of patient details and doctors' reports, leading to security vulnerabilities and disruptions in hospital operations. This research project aims to address these challenges by implementing a comprehensive computerized system to manage patient, hospital, and doctor records. Through thorough system analysis and investigation, including the use of document and data flow diagrams, data has been collected and analyzed to understand the shortcomings of the current system. The implementation of computerized report generation eliminates delays in producing reports, enhancing the efficiency of hospital operations and improving overall patient care.
 # Project Description:
-Victory Vault Indoor Sports Academy is a facility designed for training and developing athletes in various sports within an enclosed environment. It provides coaching, practice facilities, and equipments for sports like basketball, fencing, swimming and more. The academy aims to enhance skills, fitness and teamwork in a controlled and weather-independent setting. The core idea of an indoor sports academy revolves around addressing a key problem statement or opportunity area in the community. We aim to fill the gap in the community and provide a solution to this problem. Our academy will offer expert coaching and comprehensive training programs for a variety of indoor sports catering to athletes of all ages, backgrounds and skill levels. The indoor sports academy addresses a clear and pressing need within the community the lack of accessible and high-quality training for indoor sports. This problem is evident in the limited availability of proper facilities, the scarcity of the expert coaching and the absence of comprehensive training programs tailored to athlete’s needs. The indoor sports academy’s basic purpose and functionality are directly mapped to the problem statement or the opportunity area it aims to address. The core purpose of the academy is to provide accessible and high-quality training facilities for athletes, which aligns with the identified problem statement or opportunity area of the lack of such facilities in the community.
+Doctor Appointment Booking System in hospitals today has necessitated a competent administration when handling patients, generating their reports for cashier, and patient details which serves as a key factor for the flow of business transactions in hospitals. Unfortunately the current Record Management System leads to misplacement of Patient details and doctors' record of reports and consequent upon the insecurity to these records. This research project is aimed at computerizing all the records about patients, hospitals and doctors. In order to achieve this goal, a thorough System Study and investigation was carried out and data was collected and analyzed about the current system using document and data flow diagrams. The concept of report production has been computerized hence, no more delay in report generation in the hospital about patients and their doctors.
 # Core Azure Services:
-Azure Blob Storage:- Azure Blob Storage is Microsoft's scalable object storage solution in the Azure cloud. It enables secure and cost-effective storage of unstructured data, such as documents and images. Offering seamless integration with applications, it supports data of any size and optimizes accessibility through a globally distributed network. Azure Storage Account:- Azure Storage Account is a foundational component in Microsoft Azure, providing secure and scalable cloud storage. It supports various storage services like Blob, File, Queue, and Table, accommodating diverse data types. With features such as redundancy options and access controls, it ensures reliable and efficient data management. Azure Backup Service:- Azure Backup Service by Microsoft safeguards critical data in the Azure cloud. It offers automated and scalable backup solutions for virtual machines, applications, and files. With features like long-term retention and geo-redundancy, it ensures data resilience and facilitates efficient disaster recovery, enhancing overall data protection strategies.
+1.Azure Storage Account:- Azure Storage Account is a foundational component in Microsoft Azure, providing secure and scalable cloud storage. It supports various storage services like Blob, File, Queue, and Table, accommodating diverse data types. With features such as redundancy options and access controls, it ensures reliable and efficient data management.<br>2.Azure Backup Service:- Azure Backup Service by Microsoft safeguards critical data in the Azure cloud. It offers automated and scalable backup solutions for virtual machines, applications, and files. With features like long-term retention and geo-redundancy, it ensures data resilience and facilitates efficient disaster recovery, enhancing overall data protection strategies.
 # Azure AI Service
 Azure Chatbot :- The Azure AI Language Chatbot is a cutting-edge conversational agent powered by Microsoft's Azure platform. Leveraging advanced natural language processing capabilities, it facilitates dynamic and context-aware interactions. This intelligent chatbot employs machine learning algorithms to comprehend user queries, providing personalized responses and assistance across diverse domains. Seamlessly integrating with Azure services, it ensures scalability and reliability.
 # Screenshot’s:
