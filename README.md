@@ -24,4 +24,7 @@ Doctor Appointment Booking System in hospitals today has necessitated a competen
 Azure Chatbot :- The Azure AI Language Chatbot is a cutting-edge conversational agent powered by Microsoft's Azure platform. Leveraging advanced natural language processing capabilities, it facilitates dynamic and context-aware interactions. This intelligent chatbot employs machine learning algorithms to comprehend user queries, providing personalized responses and assistance across diverse domains. Seamlessly integrating with Azure services, it ensures scalability and reliability.
 # Screenshots:
 # Azure Portal
-![azure portal](https://github.com/Nandeep5/doctor_Appointment/assets/116363302/18513989-5e74-49fe-8b0b-7b2f15068d9b)
+![azure portal](https://github.com/Nandeep5/doctor_Appointment/assets/116363302/732b1ee0-9262-47c8-bf20-839d3d1ba4ef)
+# Storage Account
+![storage account](https://github.com/Nandeep5/doctor_Appointment/assets/116363302/d69f031f-6990-4781-a119-948b8ef8e61c)
+
